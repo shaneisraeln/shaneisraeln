@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Shane Israel<br><br>🚀 Builds wild ideas — from rocket-powered wildfire solutions to gadgets that detect phones in exam halls.<br><br>🤖 AI tinkerer who mixes APIs like cocktails to see what explodes (creatively).<br><br>🛡️ Messed around with cybersecurity and Linux until the terminal finally respected me.<br><br>📚 Currently juggling data structures, Bayesian estimation, and whatever else the internet throws at me.<br><br>🎤 Occasionally teaches people how to write job application letters and pretends to be a responsible adult.<br><br>🎯 Loves hackathons, crazy problem statements, and turning chaos into working code.
+👋 Hey, I’m Shane Israel<br><br>🚀 Builds wild ideas, from rocket-powered wildfire solutions to gadgets that detect phones in exam halls.<br><br>🤖 AI tinkerer who mixes APIs like cocktails to see what explodes (creatively).<br><br>🛡️ Messed around with cybersecurity and Linux until the terminal finally respected me.<br><br>📚 Currently juggling data structures, Bayesian estimation, and whatever else the internet throws at me.<br><br>🎤 Occasionally teaches people how to write job application letters and pretends to be a responsible adult.<br><br>🎯 Loves hackathons, crazy problem statements, and turning chaos into working code.
 
 
 ## 🌐 Socials:
